@@ -4,29 +4,29 @@ Frequently updated list of dLLM (Diffusion Large Language Models) papers, models
 Maintained by Suhas Pai and Xiaojun Ren
 
 ## Reasoning in dLLMs
-- **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization** — *October 9*
-- **DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning** — *October 2*
+- **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization** — *October 9* <i><a href="https://arxiv.org/abs/2510.08554" target="_blank">arXiv</a></i>
+- **DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning** — *October 2* <i><a href="https://arxiv.org/abs/2510.02212" target="_blank">arXiv</a></i>
 
 ## Scaling laws
-- **Diffusion Language Models are Super Data Learners** — *October 1*
-- **Diffusion beats autoregressive in data-constrained settings** — *July 21*
+- **Diffusion Language Models are Super Data Learners** — *October 1* <i><a href="https://jinjieni.github.io/dlms-are-super-data-learners/resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf" target="_blank">Github</a></i>
+- **Diffusion Beats Autoregressive in Data-Constrained Settings** — *July 21* <i><a href="https://arxiv.org/abs/2507.15857" target="_blank">arXiv</a></i>
 
 ## Architectures
-- **Syntax-Guided Diffusion Language Models with User-Integrated Personalization** — *October 2*
-- **Revolutionizing reinforcement learning framework for diffusion large language models** — *September 8*
-- **CoDA: Coding LM via Diffusion Adaptation** — *September 27*
+- **Syntax-Guided Diffusion Language Models with User-Integrated Personalization** — *October 2* <i><a href="https://arxiv.org/abs/2510.01028" target="_blank">arXiv</a></i>
+- **Revolutionizing reinforcement learning framework for diffusion large language models** — *September 8* <i><a href="https://arxiv.org/abs/2509.06949" target="_blank">arXiv</a></i>
+- **CoDA: Coding LM via Diffusion Adaptation** — *September 27* <i><a href="https://arxiv.org/abs/2510.03270" target="_blank">arXiv</a></i>
 
 ## Inference
-- **Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding** — *September 22*
-- **Thinking inside the mask: In-place prompting in diffusion LLMs** — *August 14*
-- **Dllmquant: Quantizing diffusion-based large language models** — *August 14*
+- **Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding** — *September 22* <i><a href="https://arxiv.org/abs/2509.18085" target="_blank">arXiv</a></i>
+- **Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs** — *August 14* <i><a href="https://arxiv.org/abs/2508.10736" target="_blank">arXiv</a></i>
+- **Dllmquant: Quantizing diffusion-based large language models** — *August 14* <i><a href="https://arxiv.org/abs/2508.14090" target="_blank">arXiv</a></i>
 
 ## Safety
-- **Jailbreaking large language diffusion models: Revealing hidden safety flaws in diffusion-based text generation** — *July 25*
+- **Jailbreaking Large Language Diffusion Models: Revealing Hidden Safety Flaws in Diffusion-Based Text Generation** — *July 25* <i><a href="https://arxiv.org/abs/2507.19227" target="_blank">arXiv</a></i>
 
 ## Applications
-- **Discovering Mathematical Equations with Diffusion Language Model** — *September 16*
+- **Discovering Mathematical Equations with Diffusion Language Model** — *September 16* <i><a href="https://arxiv.org/abs/2509.13136" target="_blank">arXiv</a></i>
 
 ## Survey
-- **A survey on diffusion language models** — *14 August*
-- **Diffusion-based Large Language Models Survey** — *August*
+- **A Survey on Diffusion Language Models** — *August 14* <i><a href="https://arxiv.org/abs/2508.10875" target="_blank">arXiv</a></i>
+- **Diffusion-based Large Language Models Survey** — *August 26* <i><a href="https://www.techrxiv.org/users/952417/articles/1321784-diffusion-based-large-language-models-survey" target="_blank">TechRxiv</a></i>
