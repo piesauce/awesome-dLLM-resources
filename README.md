@@ -1,5 +1,7 @@
 # awesome-dLLM-resources
-Frequently updated list of dLLM (Diffusion Large Language Models) papers, models, and other resources
+Frequently updated list of dLLM (Diffusion Large Language Models) papers, models, and other resources.
+
+Maintained by Suhas Pai and Xiaojun Ren
 
 ## Reasoning in dLLMs
 - **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization** — *October 9*
