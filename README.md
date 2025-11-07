@@ -6,6 +6,7 @@ Maintained by Suhas Pai and Xiaojun Ren
 ## Models
 - **Large Language Diffusion Models** — *February 14* <i><a href="https://arxiv.org/abs/2502.09992" target="_blank">arXiv</a></i>
 - **LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models** — *May 25* <i><a href="https://arxiv.org/abs/2505.19223" target="_blank">arXiv</a></i>
+- **UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models** — *October 12* <i><a href="https://arxiv.org/abs/2510.10481" target="_blank">arXiv</a></i>
 
 ## Reasoning in dLLMs
 - **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization** — *October 9* <i><a href="https://arxiv.org/abs/2510.08554" target="_blank">arXiv</a></i>
