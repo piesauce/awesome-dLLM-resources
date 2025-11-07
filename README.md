@@ -32,7 +32,7 @@ Maintained by Suhas Pai and Xiaojun Ren
 - **Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs** — *August 14* <i><a href="https://arxiv.org/abs/2508.10736" target="_blank">arXiv</a></i>
 - **Dllmquant: Quantizing diffusion-based large language models** — *August 14* <i><a href="https://arxiv.org/abs/2508.14090" target="_blank">arXiv</a></i>
 
-## Safety
+## Security
 - **Jailbreaking Large Language Diffusion Models: Revealing Hidden Safety Flaws in Diffusion-Based Text Generation** — *July 25* <i><a href="https://arxiv.org/abs/2507.19227" target="_blank">arXiv</a></i>
 
 ## Applications
