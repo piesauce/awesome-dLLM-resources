@@ -22,6 +22,9 @@ Maintained by Suhas Pai and Xiaojun Ren
 - **Revolutionizing reinforcement learning framework for diffusion large language models** — *September 8* <i><a href="https://arxiv.org/abs/2509.06949" target="_blank">arXiv</a></i>
 - **CoDA: Coding LM via Diffusion Adaptation** — *September 27* <i><a href="https://arxiv.org/abs/2510.03270" target="_blank">arXiv</a></i>
 
+## Finetuning
+- **WeFT: Weighted Entropy-driven Fine-Tuning for dLLMs** - *September 25* <i><a href="https://arxiv.org/abs/2509.20863" target="_ blank">arXiv</a></i>
+
 ## Inference
 - **Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding** — *September 22* <i><a href="https://arxiv.org/abs/2509.18085" target="_blank">arXiv</a></i>
 - **Thinking Inside the Mask: In-Place Prompting in Diffusion LLMs** — *August 14* <i><a href="https://arxiv.org/abs/2508.10736" target="_blank">arXiv</a></i>
