@@ -11,6 +11,7 @@ Maintained by Suhas Pai and Xiaojun Ren
 ## Reasoning in dLLMs
 - **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization** — *October 9* <i><a href="https://arxiv.org/abs/2510.08554" target="_blank">arXiv</a></i>
 - **DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning** — *October 2* <i><a href="https://arxiv.org/abs/2510.02212" target="_blank">arXiv</a></i>
+- **RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance** — *September 29* <i><a href="https://arxiv.org/abs/2509.25604" target="_blank">arXiv</a></i>
 
 ## Scaling laws
 - **Diffusion Language Models are Super Data Learners** — *October 1* <i><a href="https://jinjieni.github.io/dlms-are-super-data-learners/resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf" target="_blank">Github</a></i>
