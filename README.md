@@ -18,7 +18,6 @@ Maintained by Suhas Pai and Xiaojun Ren
 - **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning** — *June 3* <i><a href="https://arxiv.org/abs/2504.12216" target="_blank">arXiv</a></i>
 - **Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization** — *October 9* <i><a href="https://arxiv.org/abs/2510.08233" target="_blank">arXiv</a></i>
 
-
 ## Scaling laws
 - **Diffusion Language Models are Super Data Learners** — *October 1* <i><a href="https://jinjieni.github.io/dlms-are-super-data-learners/resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf" target="_blank">Github</a></i>
 - **Diffusion Beats Autoregressive in Data-Constrained Settings** — *July 21* <i><a href="https://arxiv.org/abs/2507.15857" target="_blank">arXiv</a></i>
@@ -30,9 +29,8 @@ Maintained by Suhas Pai and Xiaojun Ren
 - **Fast-dLLM v2: Efficient Block-Diffusion LLM** — *September 30* <i><a href="https://arxiv.org/abs/2509.26328" target="_blank">arXiv</a></i>
 - **Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way** — *October 28* <i><a href="https://arxiv.org/abs/2510.24605" target="_blank">arXiv</a></i>
 
-
 ## Finetuning/RL
-- **WeFT: Weighted Entropy-driven Fine-Tuning for dLLMs** - *September 25* <i><a href="https://arxiv.org/abs/2509.20863" target="_ blank">arXiv</a></i
+- **WeFT: Weighted Entropy-driven Fine-Tuning for dLLMs** - *September 25* <i><a href="https://arxiv.org/abs/2509.20863" target="_ blank">arXiv</a></i>
 - **Inpainting-Guided Policy Optimization for Diffusion Large Language Models** - *September 12* <i><a href="https://arxiv.org/abs/2509.10396" target="_ blank">arXiv</a></i>
 - **Principled and Tractable RL for Reasoning with Diffusion Language Models** - *October 5* <i><a href="https://arxiv.org/abs/2510.04019" target="_ blank">arXiv</a></i>
 
@@ -43,11 +41,6 @@ Maintained by Suhas Pai and Xiaojun Ren
 - **Self Speculative Decoding for Diffusion Large Language Models** - *October 5* <i><a href="https://arxiv.org/abs/2510.04147" target="_ blank">arXiv</a></i>
 - **CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits** - *October 7* <i><a href="https://arxiv.org/abs/2510.06133" target="_ blank">arXiv</a></i>
 - **Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models** - *November 3* <i><a href="https://arxiv.org/abs/2511.02077" target="_ blank">arXiv</a></i>
-
-
-
-
-
 
 ## Inference
 - **Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding** — *September 22* <i><a href="https://arxiv.org/abs/2509.18085" target="_blank">arXiv</a></i>
@@ -67,28 +60,15 @@ Maintained by Suhas Pai and Xiaojun Ren
 - **dInfer: An Efficient Inference Framework for Diffusion Language Models** — *October 9* <i><a href="https://arxiv.org/abs/2510.08666" target="_blank">arXiv</a></i>
 - **Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference** — *October 10* <i><a href="https://arxiv.org/abs/2510.09309" target="_blank">arXiv</a></i>
 
-
-
-
-
-
-
-
-
-
-
 ## Security
 - **Jailbreaking Large Language Diffusion Models: Revealing Hidden Safety Flaws in Diffusion-Based Text Generation** — *July 25* <i><a href="https://arxiv.org/abs/2507.19227" target="_blank">arXiv</a></i>
 - **The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs** — *July 15* <i><a href="https://arxiv.org/abs/2507.11097" target="_blank">arXiv</a></i>
 - **Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position** — *August 17* <i><a href="https://arxiv.org/abs/2508.12398" target="_blank">arXiv</a></i>
 - **DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models** — *September 29* <i><a href="https://arxiv.org/abs/2509.24296" target="_blank">arXiv</a></i>
 
-
-
 ## Applications
 - **Discovering Mathematical Equations with Diffusion Language Model** — *September 16* <i><a href="https://arxiv.org/abs/2509.13136" target="_blank">arXiv</a></i>
 - **Harnessing LLM for Noise-Robust Cognitive Diagnosis in Web-Based Intelligent Education Systems** — *October 5* <i><a href="https://arxiv.org/abs/2510.04093" target="_blank">arXiv</a></i>
-
 
 ## Survey
 - **A Survey on Diffusion Language Models** — *August 14* <i><a href="https://arxiv.org/abs/2508.10875" target="_blank">arXiv</a></i>
