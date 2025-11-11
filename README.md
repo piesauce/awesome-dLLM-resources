@@ -11,6 +11,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Syntax-Guided Diffusion Language Models with User-Integrated Personalization** — *October 2, 2025* <i><a href="https://arxiv.org/abs/2510.01028" target="_blank">arXiv</a></i>
 - **CoDA: Coding LM via Diffusion Adaptation** — *September 27, 2025* <i><a href="https://arxiv.org/abs/2510.03270" target="_blank">arXiv</a></i>
 - **LLaDA-MoE: A Sparse MoE Diffusion Language Model** — *September 25, 2025* <i><a href="https://arxiv.org/abs/2509.24389" target="_blank">arXiv</a></i>
+- **Dream 7B: Diffusion Large Language Models** - *August 21, 2025* <i><a href="https://arxiv.org/abs/2508.15487" target="_blank">arXiv</a></i>
 - **DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation** — *June 25, 2025* <i><a href="https://arxiv.org/abs/2506.20639" target ="_blank">arXiv</a></i>
 - **LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models** — *May 25, 2025* <i><a href="https://arxiv.org/abs/2505.19223" target="_blank">arXiv</a></i>
 - **Large Language Diffusion Models** — *February 14, 2025* <i><a href="https://arxiv.org/abs/2502.09992" target="_blank">arXiv</a></i>
