@@ -27,7 +27,7 @@ jobs:
 
       - name: Generate Radar Chart
         run: |
-          python scripts/generate_radar.py
+          python generate_radar.py
 
       - name: Commit and Push Updates
         run: |
