@@ -32,7 +32,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Inpainting-Guided Policy Optimization for Diffusion Large Language Models** — *September 12, 2025* <i><a href="https://arxiv.org/abs/2509.10396" target="_ blank">arXiv</a></i>
 - **Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models** — *September 8, 2025* <i><a href="https://arxiv.org/abs/2509.06949" target="_blank">arXiv</a></i>
 
-## Reasoning in dLLMs
+## Reasoning
 - **Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization** — *October 9, 2025* <i><a href="https://arxiv.org/abs/2510.08233" target="_blank">arXiv</a></i>
 - **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization** — *October 9, 2025* <i><a href="https://arxiv.org/abs/2510.08554" target="_blank">arXiv</a></i>
 - **DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning** — *October 2, 2025* <i><a href="https://arxiv.org/abs/2510.02212" target="_blank">arXiv</a></i>
