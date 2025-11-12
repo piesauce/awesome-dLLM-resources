@@ -5,6 +5,8 @@ Maintained By Suhas Pai and Xiaojun Ren
 
 Make a PR if you want to include your paper on this list or if you've found a cool paper that you think should be included in this list :)
 
+![Papers by Category Radar](graphics/papers_by_category_radar.png)
+
 ## Models
 - **Soft-Masked Diffusion Language Models** — *October 20, 2025* <i><a href="https://arxiv.org/abs/2510.17206" target ="_blank">arXiv</a></i>
 - **UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models** — *October 12, 2025* <i><a href="https://arxiv.org/abs/2510.10481" target="_blank">arXiv</a></i>
