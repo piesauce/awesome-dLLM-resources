@@ -19,6 +19,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Mercury: Ultra-Fast Language Models Based on Diffusion** — *June 17, 2025* <i><a href="https://arxiv.org/abs/2506.17298" target ="_blank">arXiv</a></i>
 - **LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models** — *May 25, 2025* <i><a href="https://arxiv.org/abs/2505.19223" target="_blank">arXiv</a></i>
 - **Large Language Diffusion Models** — *February 14, 2025* <i><a href="https://arxiv.org/abs/2502.09992" target="_blank">arXiv</a></i>
+-test
 
 ## Scaling Laws
 - **Diffusion Language Models Are Super Data Learners** — *October 1, 2025* <i><a href="https://jinjieni.github.io/dlms-are-super-data-learners/resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf" target="_blank">Github</a></i>
