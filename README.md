@@ -33,6 +33,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models** — *September 8, 2025* <i><a href="https://arxiv.org/abs/2509.06949" target="_blank">arXiv</a></i>
 
 ## Reasoning
+- **TiDAR: Think in Diffusion, Talk in Autoregression** — *November 12, 2025* <i><a href="https://arxiv.org/html/2511.08923v1" target="_blank">arXiv</a></i>
 - **Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization** — *October 9, 2025* <i><a href="https://arxiv.org/abs/2510.08233" target="_blank">arXiv</a></i>
 - **Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization** — *October 9, 2025* <i><a href="https://arxiv.org/abs/2510.08554" target="_blank">arXiv</a></i>
 - **DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning** — *October 2, 2025* <i><a href="https://arxiv.org/abs/2510.02212" target="_blank">arXiv</a></i>
