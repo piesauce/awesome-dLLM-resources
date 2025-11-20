@@ -20,15 +20,12 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models** — *May 25, 2025* <i><a href="https://arxiv.org/abs/2505.19223" target="_blank">arXiv</a></i>
 - **Large Language Diffusion Models** — *February 14, 2025* <i><a href="https://arxiv.org/abs/2502.09992" target="_blank">arXiv</a></i>
 
-## Architecture
-- **Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way** — *October 28, 2025* <i><a href="https://arxiv.org/abs/2510.24605" target="_blank">arXiv</a></i>
-- **Why mask diffusion does not work** — *September 25, 2025* <i><a href="https://arxiv.org/abs/2510.03289v1" target="_blank">arXiv</a></i>
-
 ## Scaling Laws
 - **Diffusion Language Models Are Super Data Learners** — *October 1, 2025* <i><a href="https://jinjieni.github.io/dlms-are-super-data-learners/resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf" target="_blank">Github</a></i>
 - **Diffusion Beats Autoregressive in Data-Constrained Settings** — *July 21, 2025* <i><a href="https://arxiv.org/abs/2507.15857" target="_blank">arXiv</a></i>
 
 ## Finetuning/RL
+- **Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way** — *October 28, 2025* <i><a href="https://arxiv.org/abs/2510.24605" target="_blank">arXiv</a></i>
 - **Principled and Tractable RL for Reasoning with Diffusion Language Models** — *October 5, 2025* <i><a href="https://arxiv.org/abs/2510.04019" target="_ blank">arXiv</a></i>
 - **Fine-Tuning Masked Diffusion for Provable Self-Correction** — *October 1, 2025* <i><a href="https://arxiv.org/abs/2510.01384" target="_ blank">arXiv</a></i>
 - **WeFT: Weighted Entropy-Driven Fine-Tuning for dLLMs** — *September 25, 2025* <i><a href="https://arxiv.org/abs/2509.20863" target="_ blank">arXiv</a></i>
@@ -78,6 +75,9 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position** — *August 17, 2025* <i><a href="https://arxiv.org/abs/2508.12398" target="_blank">arXiv</a></i>
 - **Jailbreaking Large Language Diffusion Models: Revealing Hidden Safety Flaws in Diffusion-Based Text Generation** — *July 25, 2025* <i><a href="https://arxiv.org/abs/2507.19227" target="_blank">arXiv</a></i>
 - **The Devil Behind the Mask: An Emergent Safety Vulnerability of Diffusion LLMs** — *July 15, 2025* <i><a href="https://arxiv.org/abs/2507.11097" target="_blank">arXiv</a></i>
+
+## Theory
+- **Why mask diffusion does not work** — *September 25, 2025* <i><a href="https://arxiv.org/abs/2510.03289v1" target="_blank">arXiv</a></i>
 
 ## Applications
 - **Harnessing LLM for Noise-Robust Cognitive Diagnosis in Web-Based Intelligent Education Systems** — *October 5, 2025* <i><a href="https://arxiv.org/abs/2510.04093" target="_blank">arXiv</a></i>
