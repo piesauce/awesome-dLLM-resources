@@ -83,7 +83,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Harnessing LLM for Noise-Robust Cognitive Diagnosis in Web-Based Intelligent Education Systems** — *October 5, 2025* <i><a href="https://arxiv.org/abs/2510.04093" target="_blank">arXiv</a></i>
 - **Discovering Mathematical Equations with Diffusion Language Model** — *September 16, 2025* <i><a href="https://arxiv.org/abs/2509.13136" target="_blank">arXiv</a></i>
 
-## Survey
+## Surveys
 - **Diffusion-Based Large Language Models Survey** — *August 26, 2025* <i><a href="https://www.techrxiv.org/users/952417/articles/1321784-diffusion-based-large-language-models-survey" target="_blank">TechRxiv</a></i>
 - **A Survey on Diffusion Language Models** — *August 14, 2025* <i><a href="https://arxiv.org/abs/2508.10875" target="_blank">arXiv</a></i>
 - **Discrete Diffusion in Large Language and Multimodal Models: A Survey** — *June 16, 2025* <i><a href="https://arxiv.org/abs/2506.13759" target="_blank">arXiv</a></i>
