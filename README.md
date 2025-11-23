@@ -24,6 +24,9 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Diffusion Language Models Are Super Data Learners** — *October 1, 2025* <i><a href="https://jinjieni.github.io/dlms-are-super-data-learners/resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf" target="_blank">Github</a></i>
 - **Diffusion Beats Autoregressive in Data-Constrained Settings** — *July 21, 2025* <i><a href="https://arxiv.org/abs/2507.15857" target="_blank">arXiv</a></i>
 
+## Architecture
+- **Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture** — *June 24, 2025* <i><a href="https://arxiv.org/abs/2506.19935" target="_blank">arXiv</a></i>
+
 ## Finetuning/RL
 - **Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way** — *October 28, 2025* <i><a href="https://arxiv.org/abs/2510.24605" target="_blank">arXiv</a></i>
 - **Principled and Tractable RL for Reasoning with Diffusion Language Models** — *October 5, 2025* <i><a href="https://arxiv.org/abs/2510.04019" target="_ blank">arXiv</a></i>
