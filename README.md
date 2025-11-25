@@ -8,7 +8,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 ![Papers by Category Radar](graphics/papers_by_category_radar.png)
 
 ## Libraries
-- **DiRL: An Efficient Training Framework for Diffusion Language Models** - *November 18, 2024* <i><a href="https://github.com/OpenMOSS/DiRL" target="_blank">GitHub</a></i>
+- **DiRL: An Efficient Training Framework for Diffusion Language Models** - *November 18, 2025* <i><a href="https://github.com/OpenMOSS/DiRL" target="_blank">GitHub</a></i>
 - **dLLM: Simple Diffusion Language Modeling** - *October 11, 2025* <i><a href="https://github.com/ZHZisZZ/dllm" target ="_blank">GitHub</a></i>
 
 ## Models
