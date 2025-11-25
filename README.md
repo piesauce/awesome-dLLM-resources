@@ -7,6 +7,10 @@ Make a PR if you want to include your paper on this list or if you've found a co
 
 ![Papers by Category Radar](graphics/papers_by_category_radar.png)
 
+## Libraries
+- **DiRL: An Efficient Training Framework for Diffusion Language Models** - *November 18, 2024* <i><a href="https://github.com/OpenMOSS/DiRL" target="_blank">GitHub</a></i>
+- **dLLM: Simple Diffusion Language Modeling** - *October 11, 2025* <i><a href="https://github.com/ZHZisZZ/dllm" target ="_blank">GitHub</a></i>
+
 ## Models
 - **Soft-Masked Diffusion Language Models** — *October 20, 2025* <i><a href="https://arxiv.org/abs/2510.17206" target ="_blank">arXiv</a></i>
 - **UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models** — *October 12, 2025* <i><a href="https://arxiv.org/abs/2510.10481" target="_blank">arXiv</a></i>
@@ -29,7 +33,6 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture** — *June 24, 2025* <i><a href="https://arxiv.org/abs/2506.19935" target="_blank">arXiv</a></i>
 
 ## Finetuning/RL
-- **DiRL: An Efficient Training Framework for Diffusion Language Models** - *November 18, 2024* <i><a href="https://github.com/OpenMOSS/DiRL" target="_blank">GitHub</a></i>
 - **Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way** — *October 28, 2025* <i><a href="https://arxiv.org/abs/2510.24605" target="_blank">arXiv</a></i>
 - **Principled and Tractable RL for Reasoning with Diffusion Language Models** — *October 5, 2025* <i><a href="https://arxiv.org/abs/2510.04019" target="_ blank">arXiv</a></i>
 - **Fine-Tuning Masked Diffusion for Provable Self-Correction** — *October 1, 2025* <i><a href="https://arxiv.org/abs/2510.01384" target="_ blank">arXiv</a></i>
