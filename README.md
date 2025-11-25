@@ -11,6 +11,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Soft-Masked Diffusion Language Models** — *October 20, 2025* <i><a href="https://arxiv.org/abs/2510.17206" target ="_blank">arXiv</a></i>
 - **UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models** — *October 12, 2025* <i><a href="https://arxiv.org/abs/2510.10481" target="_blank">arXiv</a></i>
 - **RND1: Simple, Scalable AR-to-Diffusion Conversion** — *October 9, 2025* <i><a href="https://www.radicalnumerics.ai/blog/rnd1" target="_blank">Blog Post</a></i>
+- **SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation** - *October 7, 2025* <i><a href="https://arxiv.org/abs/2510.06303" target="_blank">arXiv</a></i>
 - **Syntax-Guided Diffusion Language Models with User-Integrated Personalization** — *October 2, 2025* <i><a href="https://arxiv.org/abs/2510.01028" target="_blank">arXiv</a></i>
 - **CoDA: Coding LM via Diffusion Adaptation** — *September 27, 2025* <i><a href="https://arxiv.org/abs/2510.03270" target="_blank">arXiv</a></i>
 - **LLaDA-MoE: A Sparse MoE Diffusion Language Model** — *September 25, 2025* <i><a href="https://arxiv.org/abs/2509.24389" target="_blank">arXiv</a></i>
