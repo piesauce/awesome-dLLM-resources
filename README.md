@@ -89,6 +89,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **The Devil Behind the Mask: An Emergent Safety Vulnerability of Diffusion LLMs** — *July 15, 2025* <i><a href="https://arxiv.org/abs/2507.11097" target="_blank">arXiv</a></i>
 
 ## Theory
+- **Optimal inference schedules for masked diffusion models** — *November 9, 2025* <i><a href="https://arxiv.org/pdf/2511.04647" target="_blank">arXiv</a></i>
 - **Why mask diffusion does not work** — *September 25, 2025* <i><a href="https://arxiv.org/abs/2510.03289v1" target="_blank">arXiv</a></i>
 
 ## Applications
