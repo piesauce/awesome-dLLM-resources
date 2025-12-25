@@ -12,6 +12,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **dLLM: Simple Diffusion Language Modeling** - *October 11, 2025* <i><a href="https://github.com/ZHZisZZ/dllm" target ="_blank">GitHub</a></i>
 
 ## Models
+- **LLaDA2.0: Scaling Up Diffusion Language Models to 100B** — *December 10, 2025* <i><a href="https://www.arxiv.org/abs/2512.15745" target ="_blank">arXiv</a></i>
 - **Causal Diffusion Language Models** - *December 4, 2025* <i><a href ="https://www.guidelabs.ai/post/block-causal-diffusion-language-model/" target ="_blank">Blog Post</a></i>
 - **Soft-Masked Diffusion Language Models** — *October 20, 2025* <i><a href="https://arxiv.org/abs/2510.17206" target ="_blank">arXiv</a></i>
 - **UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models** — *October 12, 2025* <i><a href="https://arxiv.org/abs/2510.10481" target="_blank">arXiv</a></i>
