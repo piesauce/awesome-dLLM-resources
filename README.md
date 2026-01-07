@@ -66,6 +66,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Remasking Discrete Diffusion Models with Inference-Time Scaling** — *March 1, 2025* <i><a href="https://arxiv.org/abs/2503.00307" target="_ blank">arXiv</a></i>
 
 ## Inference Optimization
+- **CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models** — *January 5, 2026* <i><a href="https://arxiv.org/abs/2601.02236" target="_blank">arXiv</a></i>
 - **Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference** — *October 10, 2025* <i><a href="https://arxiv.org/abs/2510.09309" target="_blank">arXiv</a></i>
 - **dInfer: An Efficient Inference Framework for Diffusion Language Models** — *October 9, 2025* <i><a href="https://arxiv.org/abs/2510.08666" target="_blank">arXiv</a></i>
 - **Accelerating Diffusion LLM Inference via Local Determinism Propagation** — *October 8, 2025* <i><a href="https://arxiv.org/abs/2510.07081" target="_blank">arXiv</a></i>
