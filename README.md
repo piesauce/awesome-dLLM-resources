@@ -104,7 +104,8 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Harnessing LLM for Noise-Robust Cognitive Diagnosis in Web-Based Intelligent Education Systems** — *October 5, 2025* <i><a href="https://arxiv.org/abs/2510.04093" target="_blank">arXiv</a></i>
 - **Discovering Mathematical Equations with Diffusion Language Model** — *September 16, 2025* <i><a href="https://arxiv.org/abs/2509.13136" target="_blank">arXiv</a></i>
 
-## Position Papers
+## Analysis/Position Papers
+- **On the Role of Discreteness in Diffusion LLMs** — *December 27, 2025* <i><a href="https://arxiv.org/abs/2512.22630" target="_blank">arXiv</a></i>
 - **Understanding the Limitations of Diffusion LLMs through a Probabilistic Perspective** - *November 25, 2025* <i><a href="https://www.notion.so/Understanding-the-Limitations-of-Diffusion-LLMs-through-a-Probabilistic-Perspective-2ae0ba07baa88053b838d5bf0b0aad41#2af0ba07baa880c29fc4c8c198244cc8" target="_blank">Notion</a></i>
 
 ## Surveys
