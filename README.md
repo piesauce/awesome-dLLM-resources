@@ -54,6 +54,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning** — *June 3, 2025* <i><a href="https://arxiv.org/abs/2504.12216" target="_blank">arXiv</a></i>
 
 ## Decoding Strategies
+- **Deferred Commitment Decoding for Diffusion Language Models with Confidence-Aware Sliding Windows** — *January 5, 2026* <i><a href="https://arxiv.org/abs/2601.02076" target="_ blank">arXiv</a></i>
 - **ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding** — *December 15, 2025* <i><a href="https://arxiv.org/abs/2512.13586" target="_ blank">arXiv</a></i>
 - **Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models** — *November 3, 2025* <i><a href="https://arxiv.org/abs/2511.02077" target="_ blank">arXiv</a></i>
 - **CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits** — *October 7, 2025* <i><a href="https://arxiv.org/abs/2510.06133" target="_ blank">arXiv</a></i>
