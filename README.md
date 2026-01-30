@@ -54,6 +54,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning** — *June 3, 2025* <i><a href="https://arxiv.org/abs/2504.12216" target="_blank">arXiv</a></i>
 
 ## Decoding Strategies
+- **One Token Is Enough: Improving Diffusion Language Models with a Sink Token** — *January 27, 2026* <i><a href="https://arxiv.org/abs/2601.19657v2" target="_ blank">arXiv</a></i>
 - **Deferred Commitment Decoding for Diffusion Language Models with Confidence-Aware Sliding Windows** — *January 5, 2026* <i><a href="https://arxiv.org/abs/2601.02076" target="_ blank">arXiv</a></i>
 - **Activation Steering for Masked Diffusion Language Models** — *December 30, 2025* <i><a href="https://arxiv.org/abs/2512.24143" target="_ blank">arXiv</a></i>
 - **ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding** — *December 15, 2025* <i><a href="https://arxiv.org/abs/2512.13586" target="_ blank">arXiv</a></i>
@@ -68,6 +69,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Remasking Discrete Diffusion Models with Inference-Time Scaling** — *March 1, 2025* <i><a href="https://arxiv.org/abs/2503.00307" target="_ blank">arXiv</a></i>
 
 ## Inference Optimization
+- **Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding** — *January 25, 2026* <i><a href="http://arxiv.org/abs/2601.17917v2" target="_blank">arXiv</a></i>
 - **CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models** — *January 5, 2026* <i><a href="https://arxiv.org/abs/2601.02236" target="_blank">arXiv</a></i>
 - **WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference** — *December 28, 2025* <i><a href="https://arxiv.org/abs/2512.22737" target="_blank">arXiv</a></i>
 - **Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference** — *October 10, 2025* <i><a href="https://arxiv.org/abs/2510.09309" target="_blank">arXiv</a></i>
@@ -90,6 +92,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Dllmquant: Quantizing Diffusion-Based Large Language Models** — *August 14, 2025* <i><a href="https://arxiv.org/abs/2508.14090" target="_blank">arXiv</a></i>
 
 ## Security
+- **GCG Attack On A Diffusion LLM** — *December 30, 2025* <i><a href="https://arxiv.org/abs/2601.14266v1" target="_blank">arXiv</a></i>
 - **DiffuGuard: How Intrinsic Safety Is Lost and Found in Diffusion Large Language Models** — *September 29, 2025* <i><a href="https://arxiv.org/abs/2509.24296" target="_blank">arXiv</a></i>
 - **Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position** — *August 17, 2025* <i><a href="https://arxiv.org/abs/2508.12398" target="_blank">arXiv</a></i>
 - **Jailbreaking Large Language Diffusion Models: Revealing Hidden Safety Flaws in Diffusion-Based Text Generation** — *July 25, 2025* <i><a href="https://arxiv.org/abs/2507.19227" target="_blank">arXiv</a></i>
