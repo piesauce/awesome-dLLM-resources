@@ -32,6 +32,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Diffusion Beats Autoregressive in Data-Constrained Settings** — *July 21, 2025* <i><a href="https://arxiv.org/abs/2507.15857" target="_blank">arXiv</a></i>
 
 ## Architecture
+- **Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models** — *January 16, 2026* (ACL 2026) <i><a href="https://arxiv.org/abs/2601.07351" target="_blank">arXiv</a>, <a href="https://github.com/aim-uofa/EvoTokenDLM" target="_blank">Code</a></i>
 - **CANDI: Hybrid Discrete-Continuous Diffusion Models** - *October 26, 2025* <i><a href="https://arxiv.org/abs/2510.22510" target="_blank">arXiv</a></i>
 - **Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture** — *June 24, 2025* <i><a href="https://arxiv.org/abs/2506.19935" target="_blank">arXiv</a></i>
 
@@ -56,6 +57,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 ## Decoding Strategies
 - **LogicDiff: Logic-Guided Denoising Improves Reasoning in Masked Diffusion Language Models** — *March 24, 2026* <i><a href="https://arxiv.org/pdf/2603.26771" target="_ blank">arXiv</a></i>
 - **GeoBlock: Inferring Block Granularity from Dependency Geometry in Diffusion Language Models** — *March 4, 2026* <i><a href="https://arxiv.org/pdf/2603.26675" target="_ blank">arXiv</a></i>
+- **Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration** — *March 3, 2026* (ACL 2026) <i><a href="https://arxiv.org/abs/2603.02760" target="_blank">arXiv</a></i>
 - **One Token Is Enough: Improving Diffusion Language Models with a Sink Token** — *January 27, 2026* <i><a href="https://arxiv.org/abs/2601.19657v2" target="_ blank">arXiv</a></i>
 - **Deferred Commitment Decoding for Diffusion Language Models with Confidence-Aware Sliding Windows** — *January 5, 2026* <i><a href="https://arxiv.org/abs/2601.02076" target="_ blank">arXiv</a></i>
 - **Activation Steering for Masked Diffusion Language Models** — *December 30, 2025* <i><a href="https://arxiv.org/abs/2512.24143" target="_ blank">arXiv</a></i>
