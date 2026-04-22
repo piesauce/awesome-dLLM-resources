@@ -71,6 +71,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Remasking Discrete Diffusion Models with Inference-Time Scaling** — *March 1, 2025* <i><a href="https://arxiv.org/abs/2503.00307" target="_ blank">arXiv</a></i>
 
 ## Inference Optimization
+- **R2-dLLM: Accelerating Diffusion Large Language Models via Spatio-Temporal Redundancy Reduction** — *April 21, 2026* <i><a href="https://arxiv.org/abs/2604.18995" target="_blank">arXiv</a></i>
 - **Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding** — *January 25, 2026* <i><a href="http://arxiv.org/abs/2601.17917v2" target="_blank">arXiv</a></i>
 - **CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models** — *January 5, 2026* <i><a href="https://arxiv.org/abs/2601.02236" target="_blank">arXiv</a></i>
 - **WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference** — *December 28, 2025* <i><a href="https://arxiv.org/abs/2512.22737" target="_blank">arXiv</a></i>
