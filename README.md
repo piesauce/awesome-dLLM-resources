@@ -92,6 +92,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching** — *May 17, 2025* <i><a href="https://arxiv.org/abs/2506.06295" target="_blank">arXiv</a></i>
 
 ## Quantization
+- **On the Quantization Robustness of Diffusion Language Models in Coding Benchmarks** — *April 22, 2026* <i><a href="https://arxiv.org/abs/2604.20079" target="_blank">arXiv</a></i>
 - **Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models** — *September 27, 2025* <i><a href="https://arxiv.org/abs/2510.03274" target="_blank">arXiv</a></i>
 - **Quantization Meets dLLMs: A Systematic Study of Post-Training Quantization for Diffusion LLMs** — *August 20, 2025* <i><a href="https://arxiv.org/abs/2508.14896" target="_blank">arXiv</a></i>
 - **Dllmquant: Quantizing Diffusion-Based Large Language Models** — *August 14, 2025* <i><a href="https://arxiv.org/abs/2508.14090" target="_blank">arXiv</a></i>
