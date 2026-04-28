@@ -54,6 +54,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning** — *June 3, 2025* <i><a href="https://arxiv.org/abs/2504.12216" target="_blank">arXiv</a></i>
 
 ## Decoding Strategies
+- **When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models** — *April 27, 2026* <i><a href="https://arxiv.org/abs/2604.23994" target="_ blank">arXiv</a></i>
 - **Remask, Don't Replace: Token-to-Mask Refinement in Masked Diffusion Language Models** — *April 20, 2026* <i><a href="https://arxiv.org/abs/2604.18738" target="_ blank">arXiv</a></i>
 - **Stability-Weighted Decoding for Diffusion Language Models** — *April 18, 2026* <i><a href="https://arxiv.org/abs/2604.17068" target="_ blank">arXiv</a></i>
 - **LogicDiff: Logic-Guided Denoising Improves Reasoning in Masked Diffusion Language Models** — *March 24, 2026* <i><a href="https://arxiv.org/pdf/2603.26771" target="_ blank">arXiv</a></i>
