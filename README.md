@@ -110,6 +110,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Why mask diffusion does not work** — *September 25, 2025* <i><a href="https://arxiv.org/abs/2510.03289v1" target="_blank">arXiv</a></i>
 
 ## Applications
+- **BiMol-Diff: A Unified Diffusion Framework for Molecular Generation and Captioning** — *April 27, 2026* <i><a href="https://arxiv.org/abs/2604.24089" target="_blank">arXiv</a></i>
 - **Harnessing LLM for Noise-Robust Cognitive Diagnosis in Web-Based Intelligent Education Systems** — *October 5, 2025* <i><a href="https://arxiv.org/abs/2510.04093" target="_blank">arXiv</a></i>
 - **Discovering Mathematical Equations with Diffusion Language Model** — *September 16, 2025* <i><a href="https://arxiv.org/abs/2509.13136" target="_blank">arXiv</a></i>
 
