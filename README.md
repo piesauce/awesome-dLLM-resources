@@ -34,6 +34,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Diffusion Beats Autoregressive in Data-Constrained Settings** — *July 21, 2025* <i><a href="https://arxiv.org/abs/2507.15857" target="_blank">arXiv</a></i>
 
 ## Architecture
+- **TextLDM: Language Modeling with Continuous Latent Diffusion** - *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07748" target="_blank">arXiv</a></i>
 - **Towards Closing the Autoregressive Gap in Language Modeling via Entropy-Gated Continuous Bitstream Diffusion** - *May 7, 2026* <i><a href="https://arxiv.org/abs/2605.07013" target="_blank">arXiv</a></i>
 - **Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models** — *January 16, 2026* <i><a href="https://arxiv.org/abs/2601.07351" target="_blank">arXiv</a>, <a href="https://github.com/aim-uofa/EvoTokenDLM" target="_blank">Code</a></i>
 - **CANDI: Hybrid Discrete-Continuous Diffusion Models** - *October 26, 2025* <i><a href="https://arxiv.org/abs/2510.22510" target="_blank">arXiv</a></i>
