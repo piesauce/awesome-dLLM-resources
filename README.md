@@ -43,7 +43,6 @@ Make a PR if you want to include your paper on this list or if you've found a co
 
 ## Finetuning/RL
 - **Relative Score Policy Optimization for Diffusion Language Models** — *May 11, 2026* <i><a href="https://arxiv.org/abs/2605.10218" target="_blank">arXiv</a></i>
-- **TAD: Temporal-Aware Trajectory Self-Distillation for Fast and Accurate Diffusion LLM** — *May 10, 2026* <i><a href="https://arxiv.org/abs/2605.09536" target="_blank">arXiv</a></i>
 - **Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models** — *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07701" target="_blank">arXiv</a></i>
 - **Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective** — *December 3, 2025* <i><a href="https://arxiv.org/abs/2512.03759" target="_blank">arXiv</a></i>
 - **Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way** — *October 28, 2025* <i><a href="https://arxiv.org/abs/2510.24605" target="_blank">arXiv</a></i>
@@ -52,6 +51,11 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **WeFT: Weighted Entropy-Driven Fine-Tuning for dLLMs** — *September 25, 2025* <i><a href="https://arxiv.org/abs/2509.20863" target="_ blank">arXiv</a></i>
 - **Inpainting-Guided Policy Optimization for Diffusion Large Language Models** — *September 12, 2025* <i><a href="https://arxiv.org/abs/2509.10396" target="_ blank">arXiv</a></i>
 - **Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models** — *September 8, 2025* <i><a href="https://arxiv.org/abs/2509.06949" target="_blank">arXiv</a></i>
+
+## Distillation
+- **Infinite Mask Diffusion for Few-Step Distillation** — *May 11, 2026* <i><a href="https://arxiv.org/abs/2605.10518" target="_blank">arXiv</a></i>
+- **TAD: Temporal-Aware Trajectory Self-Distillation for Fast and Accurate Diffusion LLM** — *May 10, 2026* <i><a href="https://arxiv.org/abs/2605.09536" target="_blank">arXiv</a></i>
+
 
 ## Reasoning
 - **TiDAR: Think in Diffusion, Talk in Autoregression** — *November 12, 2025* <i><a href="https://arxiv.org/html/2511.08923v1" target="_blank">arXiv</a></i>
