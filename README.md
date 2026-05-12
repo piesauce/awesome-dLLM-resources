@@ -40,6 +40,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture** — *June 24, 2025* <i><a href="https://arxiv.org/abs/2506.19935" target="_blank">arXiv</a></i>
 
 ## Finetuning/RL
+- **Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models** — *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07701" target="_blank">arXiv</a></i>
 - **Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective** — *December 3, 2025* <i><a href="https://arxiv.org/abs/2512.03759" target="_blank">arXiv</a></i>
 - **Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way** — *October 28, 2025* <i><a href="https://arxiv.org/abs/2510.24605" target="_blank">arXiv</a></i>
 - **Principled and Tractable RL for Reasoning with Diffusion Language Models** — *October 5, 2025* <i><a href="https://arxiv.org/abs/2510.04019" target="_ blank">arXiv</a></i>
