@@ -99,6 +99,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 
 ## Inference Optimization
 - **PulseCol: Periodically Refreshed Column-Sparse Attention for Accelerating Diffusion Language Models** — *May 20, 2026* <i><a href="https://arxiv.org/abs/2605.20813" target="_blank">arXiv</a></i>
+- **TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload** — *May 19, 2026* <i><a href="https://arxiv.org/abs/2605.20179" target="_blank">arXiv</a></i>
 - **R2-dLLM: Accelerating Diffusion Large Language Models via Spatio-Temporal Redundancy Reduction** — *April 21, 2026* <i><a href="https://arxiv.org/abs/2604.18995" target="_blank">arXiv</a></i>
 - **Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding** — *January 25, 2026* <i><a href="http://arxiv.org/abs/2601.17917v2" target="_blank">arXiv</a></i>
 - **CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models** — *January 5, 2026* <i><a href="https://arxiv.org/abs/2601.02236" target="_blank">arXiv</a></i>
