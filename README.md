@@ -35,6 +35,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 
 ## Architecture
 - **Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement** - *May 14, 2026* <i><a href="https://arxiv.org/abs/2605.14368" target="_blank">arXiv</a></i>
+- **BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion** - *May 12, 2026* <i><a href="https://arxiv.org/abs/2605.11577" target="_blank">arXiv</a></i>
 - **How to Train Your Latent Diffusion Language Model Jointly With the Latent Space** - *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07933" target="_blank">arXiv</a></i>
 - **TextLDM: Language Modeling with Continuous Latent Diffusion** - *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07748" target="_blank">arXiv</a></i>
 - **Towards Closing the Autoregressive Gap in Language Modeling via Entropy-Gated Continuous Bitstream Diffusion** - *May 7, 2026* <i><a href="https://arxiv.org/abs/2605.07013" target="_blank">arXiv</a></i>
