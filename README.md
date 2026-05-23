@@ -34,7 +34,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Diffusion Language Models Are Super Data Learners** — *October 1, 2025* <i><a href="https://jinjieni.github.io/dlms-are-super-data-learners/resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf" target="_blank">GitHub</a></i>
 - **Diffusion Beats Autoregressive in Data-Constrained Settings** — *July 21, 2025* <i><a href="https://arxiv.org/abs/2507.15857" target="_blank">arXiv</a></i>
 
-## Architecture
+## Architecture & Learning Objectives
 - **Drifting Objectives for Refining Discrete Diffusion Language Models** - *May 19, 2026* <i><a href="https://arxiv.org/abs/2605.19470" target="_blank">arXiv</a></i>
 - **Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement** - *May 14, 2026* <i><a href="https://arxiv.org/abs/2605.14368" target="_blank">arXiv</a></i>
 - **BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion** - *May 12, 2026* <i><a href="https://arxiv.org/abs/2605.11577" target="_blank">arXiv</a></i>
@@ -129,7 +129,8 @@ Make a PR if you want to include your paper on this list or if you've found a co
 ## Retrieval
 - **DiffRetriever: Parallel Representative Tokens for Retrieval with Diffusion Language Models** — *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07210" target="_blank">arXiv</a></i>
 
-## Security
+## Security & Privacy
+- **Machine Unlearning for Masked Diffusion Language Models** — *May 18, 2026* <i><a href="https://arxiv.org/abs/2605.18253" target="_blank">arXiv</a></i>
 - **Chainwash: Multi-Step Rewriting Attacks on Diffusion Language Model Watermarks** — *May 6, 2026* <i><a href="https://arxiv.org/abs/2605.05503" target="_blank">arXiv</a></i>
 - **GCG Attack On A Diffusion LLM** — *December 30, 2025* <i><a href="https://arxiv.org/abs/2601.14266v1" target="_blank">arXiv</a></i>
 - **DiffuGuard: How Intrinsic Safety Is Lost and Found in Diffusion Large Language Models** — *September 29, 2025* <i><a href="https://arxiv.org/abs/2509.24296" target="_blank">arXiv</a></i>
