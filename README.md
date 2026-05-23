@@ -36,6 +36,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 
 ## Architecture & Learning Objectives
 - **Drifting Objectives for Refining Discrete Diffusion Language Models** - *May 19, 2026* <i><a href="https://arxiv.org/abs/2605.19470" target="_blank">arXiv</a></i>
+- **Dynamic Chunking for Diffusion Language Models** - *May 15, 2026* <i><a href="https://arxiv.org/abs/2605.15676" target="_blank">arXiv</a></i>
 - **Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement** - *May 14, 2026* <i><a href="https://arxiv.org/abs/2605.14368" target="_blank">arXiv</a></i>
 - **BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion** - *May 12, 2026* <i><a href="https://arxiv.org/abs/2605.11577" target="_blank">arXiv</a></i>
 - **ELF: Embedded Language Flows** - *May 11, 2026* <i><a href="https://arxiv.org/abs/2605.10938" target="_blank">arXiv</a></i>
