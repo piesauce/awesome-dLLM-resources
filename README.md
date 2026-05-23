@@ -50,6 +50,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Beyond Mode-Seeking RL: Trajectory-Balance Post-Training for Diffusion Language Models** — *May 13, 2026* <i><a href="https://arxiv.org/abs/2605.13935" target="_blank">arXiv</a></i>
 - **Self-Distilled Trajectory-Aware Boltzmann Modeling: Bridging the Training-Inference Discrepancy in Diffusion Language Models** — *May 12, 2026* <i><a href="https://arxiv.org/abs/2605.11854" target="_blank">arXiv</a></i>
 - **Relative Score Policy Optimization for Diffusion Language Models** — *May 11, 2026* <i><a href="https://arxiv.org/abs/2605.10218" target="_blank">arXiv</a></i>
+- **DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models** — *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.16342" target="_blank">arXiv</a></i>
 - **Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models** — *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07701" target="_blank">arXiv</a></i>
 - **FlowLM: Few-Step Language Modeling via Diffusion-to-Flow Adaptation** — *April 6, 2026* <i><a href="https://arxiv.org/abs/2605.20199" target="_blank">arXiv</a></i>
 - **Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective** — *December 3, 2025* <i><a href="https://arxiv.org/abs/2512.03759" target="_blank">arXiv</a></i>
