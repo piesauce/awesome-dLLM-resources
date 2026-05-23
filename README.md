@@ -30,6 +30,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Large Language Diffusion Models** — *February 14, 2025* <i><a href="https://arxiv.org/abs/2502.09992" target="_blank">arXiv</a></i>
 
 ## Scaling Laws
+- **Continuous Diffusion Scales Competitively with Discrete Diffusion for Language** — *May 18, 2026* <i><a href="https://arxiv.org/abs/2605.18530" target="_blank">arXiv</a></i>
 - **Diffusion Language Models Are Super Data Learners** — *October 1, 2025* <i><a href="https://jinjieni.github.io/dlms-are-super-data-learners/resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf" target="_blank">GitHub</a></i>
 - **Diffusion Beats Autoregressive in Data-Constrained Settings** — *July 21, 2025* <i><a href="https://arxiv.org/abs/2507.15857" target="_blank">arXiv</a></i>
 
