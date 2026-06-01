@@ -37,6 +37,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 
 ## Architecture & Learning Objectives
 - **Triplet-Block Diffusion RWKV** - *May 25, 2026* <i><a href="https://arxiv.org/abs/2605.25969" target="_blank">arXiv</a></i>
+- **DiLaDiff: Distilled Latent-Augmented Diffusion for Language Modeling** - *May 22, 2026* <i><a href="https://arxiv.org/abs/2605.23605" target="_blank">arXiv</a></i>
 - **Drifting Objectives for Refining Discrete Diffusion Language Models** - *May 19, 2026* <i><a href="https://arxiv.org/abs/2605.19470" target="_blank">arXiv</a></i>
 - **Dynamic Chunking for Diffusion Language Models** - *May 15, 2026* <i><a href="https://arxiv.org/abs/2605.15676" target="_blank">arXiv</a></i>
 - **Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement** - *May 14, 2026* <i><a href="https://arxiv.org/abs/2605.14368" target="_blank">arXiv</a></i>
