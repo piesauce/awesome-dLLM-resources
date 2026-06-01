@@ -82,6 +82,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning** — *June 3, 2025* <i><a href="https://arxiv.org/abs/2504.12216" target="_blank">arXiv</a></i>
 
 ## Decoding Strategies
+- **DLM-SWAI: Steering Diffusion Language Models Before They Unmask** — *May 28, 2026* <i><a href="https://arxiv.org/abs/2605.29626" target="_ blank">arXiv</a></i>
 - **The Path Matters: Learning a Token-Commitment Policy for Diffusion Language Models** — *May 23, 2026* <i><a href="https://arxiv.org/abs/2605.24697" target="_ blank">arXiv</a></i>
 - **Constrained Code Generation with Discrete Diffusion** — *May 16, 2026* <i><a href="https://arxiv.org/abs/2605.16829" target="_ blank">arXiv</a></i>
 - **Roll Out and Roll Back: Diffusion LLMs are Their Own Efficiency Teachers** — *May 16, 2026* <i><a href="https://arxiv.org/abs/2605.16941" target="_ blank">arXiv</a></i>
