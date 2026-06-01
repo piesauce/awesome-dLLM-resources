@@ -88,6 +88,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models** — *April 27, 2026* <i><a href="https://arxiv.org/abs/2604.23994" target="_ blank">arXiv</a></i>
 - **Remask, Don't Replace: Token-to-Mask Refinement in Masked Diffusion Language Models** — *April 20, 2026* <i><a href="https://arxiv.org/abs/2604.18738" target="_ blank">arXiv</a></i>
 - **Stability-Weighted Decoding for Diffusion Language Models** — *April 18, 2026* <i><a href="https://arxiv.org/abs/2604.17068" target="_ blank">arXiv</a></i>
+- **Targeted Remasking: Replacing Token Editing with Token-to-Mask Refinement in Discrete Diffusion Language Models** — *April 6, 2026* <i><a href="https://arxiv.org/abs/2605.26436" target="_ blank">arXiv</a></i>
 - **LogicDiff: Logic-Guided Denoising Improves Reasoning in Masked Diffusion Language Models** — *March 24, 2026* <i><a href="https://arxiv.org/pdf/2603.26771" target="_ blank">arXiv</a></i>
 - **GeoBlock: Inferring Block Granularity from Dependency Geometry in Diffusion Language Models** — *March 4, 2026* <i><a href="https://arxiv.org/pdf/2603.26675" target="_ blank">arXiv</a></i>
 - **Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration** — *March 3, 2026* <i><a href="https://arxiv.org/abs/2603.02760" target="_blank">arXiv</a></i>
