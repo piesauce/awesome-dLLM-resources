@@ -125,6 +125,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Accelerating Diffusion LLM Inference via Local Determinism Propagation** — *October 8, 2025* <i><a href="https://arxiv.org/abs/2510.07081" target="_blank">arXiv</a></i>
 - **Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models** — *September 30, 2025* <i><a href="https://arxiv.org/abs/2510.00294" target="_blank">arXiv</a></i>
 - **Fast-dLLM v2: Efficient Block-Diffusion LLM** — *September 30, 2025* <i><a href="https://arxiv.org/abs/2509.26328" target="_blank">arXiv</a></i>
+- **Learning to Parallel: Accelerating Diffusion Large Language Models via Learnable Parallel Decoding** — *September 29, 2025 (ICLR 2026)* <i><a href="https://arxiv.org/abs/2509.25188" target="_blank">arXiv</a></i>
 - **Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct** — *September 29, 2025* <i><a href="https://arxiv.org/abs/2509.25035" target="_blank">arXiv</a></i>
 - **d²Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching** — *September 27, 2025* <i><a href="https://arxiv.org/abs/2509.23094" target="_blank">arXiv</a></i>
 - **Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding** — *September 22, 2025* <i><a href="https://arxiv.org/abs/2509.18085" target="_blank">arXiv</a></i>
