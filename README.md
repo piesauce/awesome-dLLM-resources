@@ -82,6 +82,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning** — *June 3, 2025* <i><a href="https://arxiv.org/abs/2504.12216" target="_blank">arXiv</a></i>
 
 ## Decoding Strategies
+- **NAVIRA: Decoupled Stochastic Remasking for Masked Diffusion Language Models** — *June 4, 2026* <i><a href="https://arxiv.org/abs/2606.06031" target="_ blank">arXiv</a></i>
 - **DLM-SWAI: Steering Diffusion Language Models Before They Unmask** — *May 28, 2026* <i><a href="https://arxiv.org/abs/2605.29626" target="_ blank">arXiv</a></i>
 - **When Confidence Misleads: Suffix Anchoring and Anchor-Proximity Confidence Modulation for Diffusion Language Models** — *May 27, 2026* <i><a href="https://arxiv.org/abs/2605.28181" target="_ blank">arXiv</a></i>
 - **The Path Matters: Learning a Token-Commitment Policy for Diffusion Language Models** — *May 23, 2026* <i><a href="https://arxiv.org/abs/2605.24697" target="_ blank">arXiv</a></i>
