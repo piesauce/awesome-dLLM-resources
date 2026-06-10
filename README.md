@@ -142,6 +142,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Dllmquant: Quantizing Diffusion-Based Large Language Models** — *August 14, 2025* <i><a href="https://arxiv.org/abs/2508.14090" target="_blank">arXiv</a></i>
 
 ## Retrieval
+- **Self-Augmenting Retrieval for Diffusion Language Models** — *June 4, 2026* <i><a href="https://arxiv.org/abs/2606.06474" target="_blank">arXiv</a></i>
 - **DiffRetriever: Parallel Representative Tokens for Retrieval with Diffusion Language Models** — *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07210" target="_blank">arXiv</a></i>
 
 ## Security & Privacy
