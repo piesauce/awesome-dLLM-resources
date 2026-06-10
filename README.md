@@ -86,6 +86,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **NAVIRA: Decoupled Stochastic Remasking for Masked Diffusion Language Models** — *June 4, 2026* <i><a href="https://arxiv.org/abs/2606.06031" target="_ blank">arXiv</a></i>
 - **SemBlock: Semantic Boundary Dynamic Blocks for Diffusion LLMs** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04964" target="_ blank">arXiv</a></i>
 - **Dynamic Infilling Anchors for Format-Constrained Generation in Diffusion Large Language Models** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04535" target="_ blank">arXiv</a></i>
+- **Supportive Token Revealing for Fast Diffusion Language Model Decoding** — *June 2, 2026* <i><a href="https://arxiv.org/abs/2606.04236" target="_ blank">arXiv</a></i>
 - **DLM-SWAI: Steering Diffusion Language Models Before They Unmask** — *May 28, 2026* <i><a href="https://arxiv.org/abs/2605.29626" target="_ blank">arXiv</a></i>
 - **When Confidence Misleads: Suffix Anchoring and Anchor-Proximity Confidence Modulation for Diffusion Language Models** — *May 27, 2026* <i><a href="https://arxiv.org/abs/2605.28181" target="_ blank">arXiv</a></i>
 - **The Path Matters: Learning a Token-Commitment Policy for Diffusion Language Models** — *May 23, 2026* <i><a href="https://arxiv.org/abs/2605.24697" target="_ blank">arXiv</a></i>
