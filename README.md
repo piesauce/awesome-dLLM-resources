@@ -188,6 +188,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Discovering Mathematical Equations with Diffusion Language Model** — *September 16, 2025* <i><a href="https://arxiv.org/abs/2509.13136" target="_blank">arXiv</a></i>
 
 ## Analysis/Position Papers
+- **What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-Text Generation** — *May 29, 2026* <i><a href="https://arxiv.org/abs/2605.31564" target="_blank">arXiv</a></i>
 - **The Confidence Shortcut: A Reasoning Failure Mode of Masked Diffusion Models** — *May 27, 2026* <i><a href="https://arxiv.org/abs/2605.29123" target="_blank">arXiv</a></i>
 - **Prompt Compression in Diffusion Large Language Models: Evaluating LLMLingua-2 on LLaDA** — *May 18, 2026* <i><a href="https://arxiv.org/abs/2605.17932" target="_blank">arXiv</a></i>
 - **Uncertainty Quantification for Large Language Diffusion Models** — *May 14, 2026* <i><a href="https://arxiv.org/abs/2605.14570" target="_blank">arXiv</a></i>
