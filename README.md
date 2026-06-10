@@ -54,6 +54,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 ## Finetuning/RL
 - **Read the Trace, Steer the Path: Trajectory-Aware Reinforcement Learning for Diffusion Language Models** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04396" target="_blank">arXiv</a></i>
 - **Knowledge Editing in Masked Diffusion Language Models** — *June 2, 2026* <i><a href="https://arxiv.org/abs/2606.03924" target="_blank">arXiv</a></i>
+- **Revise, Don't Freeze: Sampler-Matched Training for Self-Correcting Masked Diffusion Language Models** — *May 31, 2026* <i><a href="https://arxiv.org/abs/2606.01026" target="_blank">arXiv</a></i>
 - **Learnability-Informed Fine-Tuning of Diffusion Language Models** — *May 21, 2026* <i><a href="https://arxiv.org/abs/2605.22939" target="_blank">arXiv</a></i>
 - **Beyond Mode-Seeking RL: Trajectory-Balance Post-Training for Diffusion Language Models** — *May 13, 2026* <i><a href="https://arxiv.org/abs/2605.13935" target="_blank">arXiv</a></i>
 - **Self-Distilled Trajectory-Aware Boltzmann Modeling: Bridging the Training-Inference Discrepancy in Diffusion Language Models** — *May 12, 2026* <i><a href="https://arxiv.org/abs/2605.11854" target="_blank">arXiv</a></i>
