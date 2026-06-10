@@ -114,6 +114,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Remasking Discrete Diffusion Models with Inference-Time Scaling** — *March 1, 2025* <i><a href="https://arxiv.org/abs/2503.00307" target="_ blank">arXiv</a></i>
 
 ## Inference Optimization
+- **SAID: Accelerating Diffusion-Based Language Models via Scaffold-Aware Iterative Decoding** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04974" target="_blank">arXiv</a></i>
 - **PulseCol: Periodically Refreshed Column-Sparse Attention for Accelerating Diffusion Language Models** — *May 20, 2026* <i><a href="https://arxiv.org/abs/2605.20813" target="_blank">arXiv</a></i>
 - **TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload** — *May 19, 2026* <i><a href="https://arxiv.org/abs/2605.20179" target="_blank">arXiv</a></i>
 - **PSD: Pushing the Pareto Frontier of Diffusion LLMs via Parallel Speculative Decoding** — *May 15, 2026* <i><a href="https://arxiv.org/abs/2605.15609" target="_blank">arXiv</a></i>
