@@ -39,6 +39,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **DSL-LLaDA: Scaling Continuous Denoising to 8B Masked Diffusion LMs** - *May 31, 2026* <i><a href="https://arxiv.org/abs/2606.01024" target="_blank">arXiv</a></i>
 - **WaveFilter: Enhancing the Long-Context Capability of Diffusion LLMs via Wavelet-Guided KV Cache Filtering** - *May 30, 2026* <i><a href="https://arxiv.org/abs/2606.00724" target="_blank">arXiv</a></i>
 - **Triplet-Block Diffusion RWKV** - *May 25, 2026* <i><a href="https://arxiv.org/abs/2605.25969" target="_blank">arXiv</a></i>
+- **DLLM-JEPA: Joint Embedding Predictive Architectures for Masked Diffusion Language Models** - *May 24, 2026* <i><a href="https://arxiv.org/abs/2606.00091" target="_blank">arXiv</a></i>
 - **DiLaDiff: Distilled Latent-Augmented Diffusion for Language Modeling** - *May 22, 2026* <i><a href="https://arxiv.org/abs/2605.23605" target="_blank">arXiv</a></i>
 - **Drifting Objectives for Refining Discrete Diffusion Language Models** - *May 19, 2026* <i><a href="https://arxiv.org/abs/2605.19470" target="_blank">arXiv</a></i>
 - **Dynamic Chunking for Diffusion Language Models** - *May 15, 2026* <i><a href="https://arxiv.org/abs/2605.15676" target="_blank">arXiv</a></i>
