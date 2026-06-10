@@ -36,6 +36,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Diffusion Beats Autoregressive in Data-Constrained Settings** — *July 21, 2025* <i><a href="https://arxiv.org/abs/2507.15857" target="_blank">arXiv</a></i>
 
 ## Architecture & Learning Objectives
+- **DSL-LLaDA: Scaling Continuous Denoising to 8B Masked Diffusion LMs** - *May 31, 2026* <i><a href="https://arxiv.org/abs/2606.01024" target="_blank">arXiv</a></i>
 - **Triplet-Block Diffusion RWKV** - *May 25, 2026* <i><a href="https://arxiv.org/abs/2605.25969" target="_blank">arXiv</a></i>
 - **DiLaDiff: Distilled Latent-Augmented Diffusion for Language Modeling** - *May 22, 2026* <i><a href="https://arxiv.org/abs/2605.23605" target="_blank">arXiv</a></i>
 - **Drifting Objectives for Refining Discrete Diffusion Language Models** - *May 19, 2026* <i><a href="https://arxiv.org/abs/2605.19470" target="_blank">arXiv</a></i>
