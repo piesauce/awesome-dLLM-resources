@@ -121,6 +121,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 ## Inference Optimization
 - **SAID: Accelerating Diffusion-Based Language Models via Scaffold-Aware Iterative Decoding** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04974" target="_blank">arXiv</a></i>
 - **Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference** — *June 1, 2026* <i><a href="https://arxiv.org/abs/2606.02955" target="_blank">arXiv</a></i>
+- **SimSD: Simple Speculative Decoding in Diffusion Language Models** — *June 1, 2026* <i><a href="https://arxiv.org/abs/2606.02544" target="_blank">arXiv</a></i>
 - **PulseCol: Periodically Refreshed Column-Sparse Attention for Accelerating Diffusion Language Models** — *May 20, 2026* <i><a href="https://arxiv.org/abs/2605.20813" target="_blank">arXiv</a></i>
 - **TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload** — *May 19, 2026* <i><a href="https://arxiv.org/abs/2605.20179" target="_blank">arXiv</a></i>
 - **PSD: Pushing the Pareto Frontier of Diffusion LLMs via Parallel Speculative Decoding** — *May 15, 2026* <i><a href="https://arxiv.org/abs/2605.15609" target="_blank">arXiv</a></i>
