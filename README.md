@@ -152,6 +152,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **DiffRetriever: Parallel Representative Tokens for Retrieval with Diffusion Language Models** — *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07210" target="_blank">arXiv</a></i>
 
 ## Security & Privacy
+- **Global Sketch-Based Watermarking for Diffusion Language Models** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04486" target="_blank">arXiv</a></i>
 - **Extracting Training Data from Diffusion Language Models via Infilling** — *May 22, 2026* <i><a href="https://arxiv.org/abs/2605.24173" target="_blank">arXiv</a></i>
 - **Machine Unlearning for Masked Diffusion Language Models** — *May 18, 2026* <i><a href="https://arxiv.org/abs/2605.18253" target="_blank">arXiv</a></i>
 - **Chainwash: Multi-Step Rewriting Attacks on Diffusion Language Model Watermarks** — *May 6, 2026* <i><a href="https://arxiv.org/abs/2605.05503" target="_blank">arXiv</a></i>
