@@ -97,7 +97,6 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **The Path Matters: Learning a Token-Commitment Policy for Diffusion Language Models** — *May 23, 2026* <i><a href="https://arxiv.org/abs/2605.24697" target="_ blank">arXiv</a></i>
 - **Constrained Code Generation with Discrete Diffusion** — *May 16, 2026* <i><a href="https://arxiv.org/abs/2605.16829" target="_ blank">arXiv</a></i>
 - **Roll Out and Roll Back: Diffusion LLMs are Their Own Efficiency Teachers** — *May 16, 2026* <i><a href="https://arxiv.org/abs/2605.16941" target="_ blank">arXiv</a></i>
-- **Factorization-Error-Free Discrete Diffusion Language Model via Speculative Decoding** — *May 14, 2026* <i><a href="https://arxiv.org/abs/2605.14305" target="_ blank">arXiv</a></i>
 - **Adaptive Steering and Remasking for Safe Generation in Diffusion Language Models** — *May 13, 2026* <i><a href="https://arxiv.org/abs/2605.13043" target="_ blank">arXiv</a></i>
 - **Edit-Based Refinement for Parallel Masked Diffusion Language Models** — *May 10, 2026* <i><a href="https://arxiv.org/abs/2605.09603" target="_ blank">arXiv</a></i>
 - **Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models** — *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.10971" target="_ blank">arXiv</a></i>
@@ -114,7 +113,6 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding** — *December 15, 2025* <i><a href="https://arxiv.org/abs/2512.13586" target="_ blank">arXiv</a></i>
 - **Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models** — *November 3, 2025* <i><a href="https://arxiv.org/abs/2511.02077" target="_ blank">arXiv</a></i>
 - **CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits** — *October 7, 2025* <i><a href="https://arxiv.org/abs/2510.06133" target="_ blank">arXiv</a></i>
-- **Self-Speculative Decoding for Diffusion Large Language Models** — *October 5, 2025* <i><a href="https://arxiv.org/abs/2510.04147" target="_ blank">arXiv</a></i>
 - **AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size** — *September 30, 2025* <i><a href="https://arxiv.org/abs/2509.26432" target="_ blank">arXiv</a></i>
 - **Don't Settle Too Early: Self-Reflective Remasking for Diffusion Language Models** — *September 28, 2025* <i><a href="https://arxiv.org/abs/2509.23653" target="_ blank">arXiv</a></i>
 - **Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models** — *August 12, 2025* <i><a href="https://arxiv.org/abs/2508.09138" target="_ blank">arXiv</a></i>
@@ -122,17 +120,22 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Unveiling the Potential of Diffusion Large Language Model in Controllable Generation** — *July 6, 2025* <i><a href="https://arxiv.org/abs/2507.04504" target="_ blank">arXiv</a></i>
 - **Remasking Discrete Diffusion Models with Inference-Time Scaling** — *March 1, 2025* <i><a href="https://arxiv.org/abs/2503.00307" target="_ blank">arXiv</a></i>
 
-## Inference Optimization
-- **SAID: Accelerating Diffusion-Based Language Models via Scaffold-Aware Iterative Decoding** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04974" target="_blank">arXiv</a></i>
-- **Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference** — *June 1, 2026* <i><a href="https://arxiv.org/abs/2606.02955" target="_blank">arXiv</a></i>
+## Speculative Decoding
 - **SimSD: Simple Speculative Decoding in Diffusion Language Models** — *June 1, 2026* <i><a href="https://arxiv.org/abs/2606.02544" target="_blank">arXiv</a></i>
 - **DFlare: Scaling Up Draft Capacity for Block Diffusion Speculative Decoding** — *June 1, 2026* <i><a href="https://arxiv.org/abs/2606.02091" target="_blank">arXiv</a></i>
 - **Cost-Aware Diffusion Draft Trees for Speculative Decoding** — *June 1, 2026* <i><a href="https://arxiv.org/abs/2606.01813" target="_blank">arXiv</a></i>
+- **PSD: Pushing the Pareto Frontier of Diffusion LLMs via Parallel Speculative Decoding** — *May 15, 2026* <i><a href="https://arxiv.org/abs/2605.15609" target="_blank">arXiv</a></i>
+- **Factorization-Error-Free Discrete Diffusion Language Model via Speculative Decoding** — *May 14, 2026* <i><a href="https://arxiv.org/abs/2605.14305" target="_ blank">arXiv</a></i>
+- **Self-Speculative Decoding for Diffusion Large Language Models** — *October 5, 2025* <i><a href="https://arxiv.org/abs/2510.04147" target="_ blank">arXiv</a></i>
+- **Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding** — *September 22, 2025* <i><a href="https://arxiv.org/abs/2509.18085" target="_blank">arXiv</a></i>
+
+## Inference Optimization
+- **SAID: Accelerating Diffusion-Based Language Models via Scaffold-Aware Iterative Decoding** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04974" target="_blank">arXiv</a></i>
+- **Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference** — *June 1, 2026* <i><a href="https://arxiv.org/abs/2606.02955" target="_blank">arXiv</a></i>
 - **EPIC: Efficient and Parallel Inference under CFG Constraints for Diffusion Language Models** — *May 30, 2026* <i><a href="https://arxiv.org/abs/2606.00722" target="_blank">arXiv</a></i>
 - **Efficient Diffusion LLMs via Temporal-Spatial Parallel Decoding and Confidence Extrapolation** — *May 29, 2026* <i><a href="https://arxiv.org/abs/2605.30753" target="_blank">arXiv</a></i>
 - **PulseCol: Periodically Refreshed Column-Sparse Attention for Accelerating Diffusion Language Models** — *May 20, 2026* <i><a href="https://arxiv.org/abs/2605.20813" target="_blank">arXiv</a></i>
 - **TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload** — *May 19, 2026* <i><a href="https://arxiv.org/abs/2605.20179" target="_blank">arXiv</a></i>
-- **PSD: Pushing the Pareto Frontier of Diffusion LLMs via Parallel Speculative Decoding** — *May 15, 2026* <i><a href="https://arxiv.org/abs/2605.15609" target="_blank">arXiv</a></i>
 - **R2-dLLM: Accelerating Diffusion Large Language Models via Spatio-Temporal Redundancy Reduction** — *April 21, 2026* <i><a href="https://arxiv.org/abs/2604.18995" target="_blank">arXiv</a></i>
 - **Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding** — *January 25, 2026* <i><a href="http://arxiv.org/abs/2601.17917v2" target="_blank">arXiv</a></i>
 - **CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models** — *January 5, 2026* <i><a href="https://arxiv.org/abs/2601.02236" target="_blank">arXiv</a></i>
@@ -145,7 +148,6 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Learning to Parallel: Accelerating Diffusion Large Language Models via Learnable Parallel Decoding** — *September 29, 2025 (ICLR 2026)* <i><a href="https://arxiv.org/abs/2509.25188" target="_blank">arXiv</a></i>
 - **Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct** — *September 29, 2025* <i><a href="https://arxiv.org/abs/2509.25035" target="_blank">arXiv</a></i>
 - **d²Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching** — *September 27, 2025* <i><a href="https://arxiv.org/abs/2509.23094" target="_blank">arXiv</a></i>
-- **Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding** — *September 22, 2025* <i><a href="https://arxiv.org/abs/2509.18085" target="_blank">arXiv</a></i>
 - **Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction** — *August 4, 2025* <i><a href="https://arxiv.org/abs/2508.02558" target="_blank">arXiv</a></i>
 - **Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles** — *June 12, 2025* <i><a href="https://arxiv.org/abs/2506.10848" target="_blank">arXiv</a></i>
 - **Fast-dLLM: Training-Free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding** — *May 28, 2025* <i><a href="https://arxiv.org/abs/2505.22618" target="_blank">arXiv</a></i>
