@@ -1,7 +1,7 @@
 # awesome-dLLM-resources
 Frequently updated list of dLLM (Diffusion Large Language Models) papers, models, and other resources. 
 
-Maintained By Suhas Pai and Xiaojun Ren
+Maintained By Suhas Pai and Xiaojun Ren. For an overview of this field, see our ICLR 2026 blog post <i><a href="https://iclr-blogposts.github.io/2026/blog/2026/dllm/" target="_blank">ICLR Blog</a></i>.
 
 Make a PR if you want to include your paper on this list or if you've found a cool paper that you think should be included in this list :)
 
