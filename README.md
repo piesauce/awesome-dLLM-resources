@@ -55,6 +55,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture** — *June 24, 2025* <i><a href="https://arxiv.org/abs/2506.19935" target="_blank">arXiv</a></i>
 
 ## Finetuning/RL
+- **Mask-Aware Policy Gradients for Diffusion Language Models** — *July 16, 2026* <i><a href="https://arxiv.org/abs/2607.15200" target="_blank">arXiv</a></i>
 - **Read the Trace, Steer the Path: Trajectory-Aware Reinforcement Learning for Diffusion Language Models** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04396" target="_blank">arXiv</a></i>
 - **Knowledge Editing in Masked Diffusion Language Models** — *June 2, 2026* <i><a href="https://arxiv.org/abs/2606.03924" target="_blank">arXiv</a></i>
 - **Revise, Don't Freeze: Sampler-Matched Training for Self-Correcting Masked Diffusion Language Models** — *May 31, 2026* <i><a href="https://arxiv.org/abs/2606.01026" target="_blank">arXiv</a></i>
