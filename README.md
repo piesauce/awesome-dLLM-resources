@@ -206,6 +206,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 
 ## Surveys
 - **Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques** — *July 14, 2026* <i><a href="https://arxiv.org/abs/2607.12829" target="_blank">arXiv</a></i>
+- **dLLM - Rethinking Generation Beyond Autoregressive Models** — *April 27, 2026* <i><a href="https://iclr-blogposts.github.io/2026/blog/2026/dllm/" target="_blank">ICLR Blog</a></i>
 - **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation** — *September 14, 2025* <i><a href="https://arxiv.org/abs/2509.11252" target="_blank">arXiv</a></i>
 - **Diffusion-Based Large Language Models Survey** — *August 26, 2025* <i><a href="https://www.techrxiv.org/users/952417/articles/1321784-diffusion-based-large-language-models-survey" target="_blank">TechRxiv</a></i>
 - **A Survey on Diffusion Language Models** — *August 14, 2025* <i><a href="https://arxiv.org/abs/2508.10875" target="_blank">arXiv</a></i>
