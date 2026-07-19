@@ -48,6 +48,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **ELF: Embedded Language Flows** - *May 11, 2026* <i><a href="https://arxiv.org/abs/2605.10938" target="_blank">arXiv</a></i>
 - **How to Train Your Latent Diffusion Language Model Jointly With the Latent Space** - *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07933" target="_blank">arXiv</a></i>
 - **TextLDM: Language Modeling with Continuous Latent Diffusion** - *May 8, 2026* <i><a href="https://arxiv.org/abs/2605.07748" target="_blank">arXiv</a></i>
+- **Token Time Continuous Diffusion for Language Modeling** - *May 7, 2026* <i><a href="https://arxiv.org/abs/2607.14106" target="_blank">arXiv</a></i>
 - **Towards Closing the Autoregressive Gap in Language Modeling via Entropy-Gated Continuous Bitstream Diffusion** - *May 7, 2026* <i><a href="https://arxiv.org/abs/2605.07013" target="_blank">arXiv</a></i>
 - **From AR to Diffusion: Efficiently Adapting Large Language Models with Strictly Causal and Elastic Horizons** - *April 11, 2026* <i><a href="https://arxiv.org/abs/2605.27387" target="_blank">arXiv</a></i>
 - **Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models** — *January 16, 2026* <i><a href="https://arxiv.org/abs/2601.07351" target="_blank">arXiv</a>, <a href="https://github.com/aim-uofa/EvoTokenDLM" target="_blank">Code</a></i>
