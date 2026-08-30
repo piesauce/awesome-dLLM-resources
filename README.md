@@ -76,6 +76,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models** — *September 8, 2025* <i><a href="https://arxiv.org/abs/2509.06949" target="_blank">arXiv</a></i>
 
 ## Distillation
+- **SelFusion: Self-distillation for Diffusion Language Models** — *August 24, 2026* <i><a href="https://arxiv.org/abs/2608.22898" target="_blank">arXiv</a></i>
 - **Learning from the Self-future: On-policy Self-distillation for dLLMs** — *June 16, 2026* <i><a href="https://arxiv.org/abs/2606.18195" target="_blank">arXiv</a>, <a href="https://github.com/xingzhejun/d-opsd-code" target="_blank">Code</a></i>
 - **Infinite Mask Diffusion for Few-Step Distillation** — *May 11, 2026* <i><a href="https://arxiv.org/abs/2605.10518" target="_blank">arXiv</a></i>
 - **TAD: Temporal-Aware Trajectory Self-Distillation for Fast and Accurate Diffusion LLM** — *May 10, 2026* <i><a href="https://arxiv.org/abs/2605.09536" target="_blank">arXiv</a></i>
