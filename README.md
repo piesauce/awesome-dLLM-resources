@@ -94,6 +94,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 ## Decoding Strategies
 - **Dependency-Aware Revocable Decoding for Efficient Diffusion Large Language Model Inference** — *August 27, 2026* <i><a href="https://arxiv.org/abs/2608.26574" target="_ blank">arXiv</a></i>
 - **Information-Guided Frontier Decoding: Contextual Utility-Driven Commitment in dMLLMs** — *August 27, 2026* <i><a href="https://arxiv.org/abs/2608.26641" target="_ blank">arXiv</a></i>
+- **Survival-Guided Length Control for Efficient Diffusion Language Models** — *August 26, 2026* <i><a href="https://arxiv.org/abs/2608.26374" target="_ blank">arXiv</a></i>
 - **Context-Aware Cluster Decoding: Semantic Anchor-Driven Coherence in dMLLMs** — *August 23, 2026* <i><a href="https://arxiv.org/abs/2608.22367" target="_ blank">arXiv</a></i>
 - **Length-Adaptive Decoding for Masked Diffusion Machine Translation** — *August 23, 2026* <i><a href="https://arxiv.org/abs/2608.22274" target="_ blank">arXiv</a></i>
 - **NAVIRA: Decoupled Stochastic Remasking for Masked Diffusion Language Models** — *June 4, 2026* <i><a href="https://arxiv.org/abs/2606.06031" target="_ blank">arXiv</a></i>
