@@ -91,6 +91,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning** — *June 3, 2025* <i><a href="https://arxiv.org/abs/2504.12216" target="_blank">arXiv</a></i>
 
 ## Decoding Strategies
+- **Length-Adaptive Decoding for Masked Diffusion Machine Translation** — *August 23, 2026* <i><a href="https://arxiv.org/abs/2608.22274" target="_ blank">arXiv</a></i>
 - **NAVIRA: Decoupled Stochastic Remasking for Masked Diffusion Language Models** — *June 4, 2026* <i><a href="https://arxiv.org/abs/2606.06031" target="_ blank">arXiv</a></i>
 - **SemBlock: Semantic Boundary Dynamic Blocks for Diffusion LLMs** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04964" target="_ blank">arXiv</a></i>
 - **Dynamic Infilling Anchors for Format-Constrained Generation in Diffusion Large Language Models** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04535" target="_ blank">arXiv</a></i>
