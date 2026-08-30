@@ -92,6 +92,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning** — *June 3, 2025* <i><a href="https://arxiv.org/abs/2504.12216" target="_blank">arXiv</a></i>
 
 ## Decoding Strategies
+- **Dependency-Aware Revocable Decoding for Efficient Diffusion Large Language Model Inference** — *August 27, 2026* <i><a href="https://arxiv.org/abs/2608.26574" target="_ blank">arXiv</a></i>
 - **Information-Guided Frontier Decoding: Contextual Utility-Driven Commitment in dMLLMs** — *August 27, 2026* <i><a href="https://arxiv.org/abs/2608.26641" target="_ blank">arXiv</a></i>
 - **Context-Aware Cluster Decoding: Semantic Anchor-Driven Coherence in dMLLMs** — *August 23, 2026* <i><a href="https://arxiv.org/abs/2608.22367" target="_ blank">arXiv</a></i>
 - **Length-Adaptive Decoding for Masked Diffusion Machine Translation** — *August 23, 2026* <i><a href="https://arxiv.org/abs/2608.22274" target="_ blank">arXiv</a></i>
