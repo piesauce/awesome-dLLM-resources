@@ -134,6 +134,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding** — *September 22, 2025* <i><a href="https://arxiv.org/abs/2509.18085" target="_blank">arXiv</a></i>
 
 ## Inference Optimization
+- **Accelerating Diffusion Language Models via Structured Suffix Modeling** — *August 24, 2026* <i><a href="https://arxiv.org/abs/2608.23167" target="_blank">arXiv</a></i>
 - **SAID: Accelerating Diffusion-Based Language Models via Scaffold-Aware Iterative Decoding** — *June 3, 2026* <i><a href="https://arxiv.org/abs/2606.04974" target="_blank">arXiv</a></i>
 - **Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference** — *June 1, 2026* <i><a href="https://arxiv.org/abs/2606.02955" target="_blank">arXiv</a>, <a href="https://github.com/Ringo-Star/FastdLLM_plusplus" target="_blank">Code</a>, <a href="https://ringo-star.github.io/projectpage_frechet/" target="_blank">Project Page</a></i>
 - **EPIC: Efficient and Parallel Inference under CFG Constraints for Diffusion Language Models** — *May 30, 2026* <i><a href="https://arxiv.org/abs/2606.00722" target="_blank">arXiv</a></i>
