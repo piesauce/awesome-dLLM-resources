@@ -13,6 +13,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **dLLM: Simple Diffusion Language Modeling** - *October 11, 2025* <i><a href="https://github.com/ZHZisZZ/dllm" target ="_blank">GitHub</a></i>
 
 ## Models
+- **DiffusionGemma** — *July 31, 2026* <i><a href="https://arxiv.org/abs/2608.00146" target ="_blank">arXiv</a></i>
 - **Continuous Latent Diffusion Language Model** — *May 7, 2026* <i><a href="https://arxiv.org/abs/2605.06548" target ="_blank">arXiv</a></i>
 - **W1-4B-dLLM: Whaletech Diffusion LLM** — *April 13, 2026* <i><a href="https://huggingface.co/WhaletechAI/W1-4B-dLLM-Base" target="_blank">Hugging Face</a></i> <i><a href="https://vibe.whaletech.ai/" target="_blank">Demo</a></i>
 - **LLaDA2.0: Scaling Up Diffusion Language Models to 100B** — *December 10, 2025* <i><a href="https://www.arxiv.org/abs/2512.15745" target ="_blank">arXiv</a></i>
