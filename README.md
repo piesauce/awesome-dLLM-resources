@@ -125,6 +125,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits** — *October 7, 2025* <i><a href="https://arxiv.org/abs/2510.06133" target="_ blank">arXiv</a></i>
 - **AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size** — *September 30, 2025* <i><a href="https://arxiv.org/abs/2509.26432" target="_ blank">arXiv</a></i>
 - **Don't Settle Too Early: Self-Reflective Remasking for Diffusion Language Models** — *September 28, 2025* <i><a href="https://arxiv.org/abs/2509.23653" target="_ blank">arXiv</a></i>
+- **Empirical Analysis of Decoding Biases in Masked Diffusion Models** — *August 18, 2025* <i><a href="https://arxiv.org/abs/2508.13021" target="_blank">arXiv</a></i>
 - **Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models** — *August 12, 2025* <i><a href="https://arxiv.org/abs/2508.09138" target="_ blank">arXiv</a></i>
 - **Beyond Fixed: Training-Free Variable-Length Denoising for Diffusion Large Language Models** — *August 1, 2025* <i><a href="https://arxiv.org/abs/2508.00819" target="_ blank">arXiv</a></i>
 - **Unveiling the Potential of Diffusion Large Language Model in Controllable Generation** — *July 6, 2025* <i><a href="https://arxiv.org/abs/2507.04504" target="_ blank">arXiv</a></i>
