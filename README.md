@@ -48,6 +48,7 @@ Make a PR if you want to include your paper on this list or if you've found a co
 - **Diffusion Beats Autoregressive in Data-Constrained Settings** — *July 21, 2025* <i><a href="https://arxiv.org/abs/2507.15857" target="_blank">arXiv</a></i>
 
 ## Architecture & Learning Objectives
+- **On the Importance of Hidden-State Refinement in Masked Diffusion Language Models** — *November 24, 2026* <i><a href="https://arxiv.org/abs/2611.32416" target="_blank">arXiv</a>, <a href="https://github.com/zhongzero/Recurrent-DLLM" target="_blank">GitHub</a></i>
 - **BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion** — *October 30, 2026* <i><a href="https://arxiv.org/abs/2610.41574" target="_blank">arXiv</a></i>
 - **TDLM: Adaptive Temporal Integration for Diffusion Language Models** — *October 27, 2026* <i><a href="https://arxiv.org/abs/2610.36940" target="_blank">arXiv</a></i>
 - **Spherical Brownian Diffusion for Language Modeling** — *October 26, 2026* <i><a href="https://arxiv.org/abs/2610.35101" target="_blank">arXiv</a></i>
